@@ -27,7 +27,6 @@ API desenvolvida utilizando o tutorial Aplicativos API Web da Microsoft, dispon�
 
 ## Etapa 1  - Criar uma API Web
 
-&nbsp;
 
 ### Aprendizados
 
@@ -37,7 +36,6 @@ API desenvolvida utilizando o tutorial Aplicativos API Web da Microsoft, dispon�
 * Configurar o roteamento, os caminhos de URL e os valores retornados.
 * Chamar a API Web com o Postman.
 
-&nbsp;
 
 ### Pacotes Utilizados
 
@@ -50,8 +48,6 @@ API desenvolvida utilizando o tutorial Aplicativos API Web da Microsoft, dispon�
 &nbsp;
 
 ## Etapa 2 - Chamar a API com JavaScript
-
-&nbsp;
 
 * Adição de uma página HTML (Interface de Usuário) com formulários para criar e gerenciais itens da To-do list.
 * Adição de manipuladores de eventos aos elementos que resultam em solicitações HTTP para os métodos de ação da API Web.
